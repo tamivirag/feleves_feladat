@@ -1,0 +1,16 @@
+/* @import "tailwindcss";*/
+
+h1{
+  color: plum;
+  font-size: 100px;
+  background-color: beige;
+  border: 2px dotted purple;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  font-style: bold;
+  font-family: fantasy;
+}
+h1:hover{
+  filter:invert(100%)
+}
